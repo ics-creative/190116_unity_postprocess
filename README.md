@@ -6,3 +6,5 @@
 
 ## サンプルの確認方法
 - **Assets/Scenes/PostProcessTest**を開いてご確認ください。
+
+![StarEffect](https://user-images.githubusercontent.com/4597574/51368982-f7bb3000-1b34-11e9-96b9-fcd5cf03f2c7.png "サンプル")
